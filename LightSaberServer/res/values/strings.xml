@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Light Saber</string>
+    <string name="ipAddress">IP address</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+
+</resources>

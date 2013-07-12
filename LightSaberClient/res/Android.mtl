@@ -1,0 +1,20 @@
+# Blender MTL File: 'Android.blend'
+# Material Count: 2
+
+newmtl AndroidColor
+Ns 468.627451
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.800000 0.000000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl AndroidEye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.006460 0.006460 0.006460
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2

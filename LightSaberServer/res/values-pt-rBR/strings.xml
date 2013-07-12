@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ipAddress">IP do celular</string>
+    <string name="connect">Conectar</string>
+    <string name="connected">Conectado</string>
+
+</resources>
